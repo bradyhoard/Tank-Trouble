@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalProject_Brady_and_Hamzah", "FinalProject Brady and Hamzah\FinalProject_Brady_and_Hamzah\FinalProject_Brady_and_Hamzah.csproj", "{B4D37CAA-E449-467B-9C41-8B1A362BA7CC}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FinalProject_Brady_and_HamzahContent", "FinalProject Brady and Hamzah\FinalProject_Brady_and_HamzahContent\FinalProject_Brady_and_HamzahContent.contentproj", "{83C8D7ED-24D3-4E8D-99F7-37FA97914880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D37CAA-E449-467B-9C41-8B1A362BA7CC}.Debug|x86.ActiveCfg = Debug|x86
+		{B4D37CAA-E449-467B-9C41-8B1A362BA7CC}.Debug|x86.Build.0 = Debug|x86
+		{B4D37CAA-E449-467B-9C41-8B1A362BA7CC}.Release|x86.ActiveCfg = Release|x86
+		{B4D37CAA-E449-467B-9C41-8B1A362BA7CC}.Release|x86.Build.0 = Release|x86
+		{83C8D7ED-24D3-4E8D-99F7-37FA97914880}.Debug|x86.ActiveCfg = Debug|x86
+		{83C8D7ED-24D3-4E8D-99F7-37FA97914880}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
